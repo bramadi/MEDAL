@@ -1,7 +1,7 @@
 # MEDAL
 
 ## Description
-MEDAL (MicrobiomE Data AnaLysis):an integrated tool for analyzing amplicon-sequencing data
+MEDAL (MicrobiomE Data AnaLysis): an integrated tool for analyzing amplicon-sequencing data
 
 ## The following are some of the queries that MEDAL can answer:
 1. Which species are represented in these samples that I have taken?
